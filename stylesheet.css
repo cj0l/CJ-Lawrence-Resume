@@ -1,0 +1,30 @@
+/* styles for my resume */
+/* gray, open sans text for the entire body of the website. */
+body{
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 1em;
+    color:#444;
+    font-weight:400;
+}
+/* centers my name in uppercase on page. */
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    color:#33485e;
+}
+/* makes my title a different color in uppercase. */
+strong {
+    color:#33485e;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+/* changes section titles for visual division */
+h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color:#33485e ;
+    color: white;
+    font-weight:400;
+}
+/* emphasizes job title in unique size. */

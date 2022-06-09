@@ -28,3 +28,23 @@ h2 {
     font-weight:400;
 }
 /* emphasizes job title in unique size. */
+h3{
+    font-weight:600;
+    font-size: 1.5em;
+
+}
+/* emphasizes organization in unique size. */
+h4{
+    font-weight:400;
+    font-size: 1.5em;
+}
+/* emphasizes dates in unique size and font style. */
+h5{
+    font-weight:400;
+    font-style: italic;
+    font-size: 1em;
+}
+/* makes listed info a unique size. */
+ul{
+    font-size: 1em;
+}
